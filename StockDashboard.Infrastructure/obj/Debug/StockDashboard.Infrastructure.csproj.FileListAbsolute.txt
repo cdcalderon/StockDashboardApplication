@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject\StockDashboard\StockDashboard.Web\StockDashboard.Infrastructure\bin\Debug\StockDashboard.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject\StockDashboard\StockDashboard.Web\StockDashboard.Infrastructure\bin\Debug\StockDashboard.Infrastructure.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject\StockDashboard\StockDashboard.Web\StockDashboard.Infrastructure\obj\Debug\StockDashboard.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject\StockDashboard\StockDashboard.Web\StockDashboard.Infrastructure\obj\Debug\StockDashboard.Infrastructure.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Infrastructure\bin\Debug\StockDashboard.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Infrastructure\bin\Debug\StockDashboard.Infrastructure.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Infrastructure\obj\Debug\StockDashboard.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Infrastructure\obj\Debug\StockDashboard.Infrastructure.pdb

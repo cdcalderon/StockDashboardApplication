@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StockDashboard-Web.config Connection String" description="StockDashboard Connection String used in web.config by the application to access the database." defaultValue="Data Source=.;Initial Catalog=StockDashboardDB;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="\\\\psf\\Home\\Documents\\Visual\ Studio\ 2013\\Projects\\AngularProject4WebApi\\StockDashboard\\StockDashboard\\StockDashboard\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StockDashboard']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="\\\\psf\\Home\\Documents\\Visual\ Studio\ 2013\\Projects\\AngularProject4WebApi\\StockDashboard\\StockDashboard\\StockDashboard\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="StockDashboardDB-Web.config Connection String" description="StockDashboardDB Connection String used in web.config by the application to access the database." defaultValue="StockDashboardDB_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="\\\\psf\\Home\\Documents\\Visual\ Studio\ 2013\\Projects\\AngularProject4WebApi\\StockDashboard\\StockDashboard\\StockDashboard\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StockDashboardDB']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,27 @@
+﻿<section class="mainbar" data-ng-controller="stockQuotes as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="widget wgreen">
+                    <div data-cc-widget-header title="{{vm.title}}"
+                         subtitle="{{vm.stockQuotes.length}}"></div>
+                    <div class="widget-content user">
+                        <div class="padd list-flow" data-ng-repeat="s in vm.stockQuotes">
+                            <div class="stock">
+                                <img ng-src="../content/images/symbolImages/{{s.ImageSource}}" class="img-polaroid user-pic" />
+                                <div >
+                                    <div><h3>{{s.Symbol}}</h3></div>
+                                    <div><h5>{{s.Last}}</h5></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="widget-foot">
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+

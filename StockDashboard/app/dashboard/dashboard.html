@@ -1,0 +1,65 @@
+﻿<section id="dashboard-view" class="mainbar" data-ng-controller="dashboard as vm">
+    <section class="matter">
+        <div class="container-fluid" data-ng-controller="stockQuotes as vmStocks">
+            <div class="row-fluid">
+                <div class="widget-content user bblue" data-ng-controller="stockQuotes as vmStocks">
+                    <h2>Top 3 Stocks</h2>
+                    <div class="padd list-flow" data-ng-repeat="s in vmStocks.topThreeStockQuotes">
+                        <div class="user bblue">
+                            <img ng-src="../content/images/symbolImages/{{s.ImageSource}}" class="img-polaroid user-pic" style="margin:0px 15px 0px 15px" />
+                            <div>
+                                <h5>{{s.Symbol}}</h5>
+                                <h5>{{s.Change}}</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+            <div class="row-fluid">
+                <div class="span6">
+                    <div class="widget wviolet">
+                        <div data-cc-widget-header title="Portfolio"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Company</th>
+                                        <th>Symbol</th>
+                                        <th>Last</th>
+                                        <th>Shares</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="sq in vmStocks.stockQuotes">
+                                        <td>{{sq.Company}}</td>
+                                        <td>{{sq.Symbol}}</td>
+                                        <td>{{sq.Last}}</td>
+                                        <td>{{sq.Shares}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="span6">
+                    <div class="widget wgreen">
+                        <div data-cc-widget-header title="{{vm.news.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <img ng-src="../content/images/centerbase.png" class="img-polaroid user-pic" style="margin:0px 15px 0px 15px" />
+                            <small>{{vm.news.description}}</small>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

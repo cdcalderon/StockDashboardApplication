@@ -1,0 +1,13 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\StockDashboard.Data.Tests.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\StockDashboard.Data.Tests.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\Moq.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\StockDashboard.Core.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\StockDashboard.Data.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\StockDashboard.Core.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\StockDashboard.Data.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\Moq.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\obj\Debug\StockDashboard.Data.Tests.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\obj\Debug\StockDashboard.Data.Tests.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Data.Tests\obj\Debug\StockDashboard.Data.Tests.pdb

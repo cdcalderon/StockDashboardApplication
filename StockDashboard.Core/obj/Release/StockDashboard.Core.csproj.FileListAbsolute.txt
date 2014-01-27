@@ -1,0 +1,10 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\bin\Release\StockDashboard.Core.dll.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\bin\Release\StockDashboard.Core.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\bin\Release\StockDashboard.Core.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\bin\Release\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\bin\Release\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\bin\Release\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\bin\Release\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\obj\Release\StockDashboard.Core.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\obj\Release\StockDashboard.Core.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\AngularProject4WebApi\StockDashboard\StockDashboard\StockDashboard.Core\obj\Release\StockDashboard.Core.pdb
